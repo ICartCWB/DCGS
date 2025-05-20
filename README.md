@@ -78,9 +78,9 @@ If you use or cite this project, please refer to the paper:
 MIT License
 
 Copyright (c) 2025
-Israel Nunes da Silva (Instituto Tecnológico de Aeronáutica - ITA)  
-Elcio Hideichi Shiguemori (Instituto de Estudos Avançados - IEAv)  
-Gabriel Dietzsch (Instituto de Estudos Avançados - IEAv)
+Israel Nunes da Silva (ITA)  
+Elcio Hideichi Shiguemori (IEAv)  
+Gabriel Dietzsch (IEAv)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
