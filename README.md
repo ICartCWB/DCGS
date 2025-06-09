@@ -69,7 +69,7 @@ If you use or cite this project, please refer to the paper:
 
 > **Silva, I. N., Shiguemori, E. H., Dietzsch, G.**  
 > *Designing a parallelogram Discrete Global Grid System for terrestrial cadastral mapping*  
-> [Publication info/link unavailable]
+> [Publication info/link](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2025/06.04.13.53/doc/thisInformationItemHomePage.html)
 
 ---
 
