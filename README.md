@@ -70,7 +70,8 @@ If you use or cite this project, please refer to the paper:
 > **Silva, I. N., Shiguemori, E. H., Dietzsch, G.**  
 > *Designing a parallelogram Discrete Global Grid System for terrestrial cadastral mapping*
 > In: SIMPÓSIO BRASILEIRO DE GEOINFORMÁTICA, 25. (GEOINFO), 2025, São José dos Campos. Anais... São José dos Campos: INPE, 2025. ISSN 2179-4847. IBI: <[8JMKD2USPTW34P/4DK6SD5](http://urlib.net/ibi/8JMKD2USPTW34P/4DK6SD5)>.
-> [Publication info/link](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2025/06.04.13.53/doc/thisInformationItemHomePage.html)
+> 
+> [Publication info/link](http://urlib.net/ibi/8JMKD2USPTW34P/4DKC4FB)
 
 ---
 
