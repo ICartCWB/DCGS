@@ -1,6 +1,7 @@
 # DCGS – Discrete Cadastral Grid System
+## ITACaRT - ITA Cadastral Ellipsoidal Reference Tessellation
 
-⚠️ *Working title – this is a conceptual and research-stage repository. The project name may change as implementation evolves.*
+⚠️ *This was an conceptual and research-stage repository. The new project can be viewed in [this link.](https://github.com/ITACaRT/itacart)*
 
 ## 📍 Overview
 
